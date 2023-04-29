@@ -3,5 +3,4 @@
 
 print('filipe'.upper())
 print(56 + 7)
-
-
+print(56 - 6)
